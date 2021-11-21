@@ -26,4 +26,7 @@ google_fonts
 
 <b>Steven Mathew</b>
  
-Designer @ phinstudio.com
+Designer @ siyonfresh.com
+
+# Buy Me A Coffee
+<a href="https://rzp.io/l/jlOOFVXJ"><img src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-u0b349upqugfio195s4lpk8144-20190213120303.Medi.jpeg" width="200" height="100" style="border-radius:10px"></a>
